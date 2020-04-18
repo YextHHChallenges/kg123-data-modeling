@@ -1,5 +1,11 @@
 {
   "$id": "restaurant",
   "$schema": "https://schema.yext.com/config/km/built-in-entity-type/v1",
-  "enabled": true
+  "enabled": true,
+  "entry":  [ 
+    {
+      "id": "restaurantPromotions",
+      "required": false
+    }
+    ]
 }
