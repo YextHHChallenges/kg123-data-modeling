@@ -25,10 +25,6 @@
       "required": false
     },
     {
-      "id": "restaurantPromotions",
-      "required": false
-    },
-    {
       "id": "theme",
       "required": false
     },
