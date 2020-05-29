@@ -1,12 +1,11 @@
 {
-  "$id": "restaurantPromotions",
+  "$id": "c_restaurantPromotions",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Restaurant Promotions",
-  "apiName": "c_restaurantPromotions",
   "typeId": "yext/list",
   "type": {
     "listType": {
-      "typeId": "promotion",
+      "typeId": "c_promotion",
       "maxLength": 3
     }
   },
