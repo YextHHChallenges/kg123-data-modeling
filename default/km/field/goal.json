@@ -2,7 +2,7 @@
   "$id": "c_goal",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Goal",
-  "typeId": "yext/string",
+  "typeId": "string",
   "type": {
     "stringType": {
       "stereotype": "SIMPLE"

@@ -121,23 +121,23 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name"
+          "id": "name"
         },
         {
-          "id": "yext/entityId"
+          "id": "entityId"
         },
         {
-          "id": "yext/description"
+          "id": "description"
         },
         {
-          "id": "yext/videos",
+          "id": "videos",
           "visibleOnAdd": true
         },
         {
           "id": "c_goal"
         },
         {
-          "id": "yext/organizerEmail"
+          "id": "organizerEmail"
         },
         {
           "id": "c_primaryCTA"
@@ -264,10 +264,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         }
       ]
     }
